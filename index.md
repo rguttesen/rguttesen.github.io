@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hi, you curious enough to find yourself reading my introduction, and welcome! My name is Riku, I'm a 24-year-old student at the University of Helsinki majoring in general linguistics. Apart from my morbid language fascination, I'm interested in music and hiking; I play the bass and the harmonica, and I try to regularly venture into the Finnish wilderness to spend a night or to "in the bush", as they'd say in New Zealand.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hi, you curious enough to find yourself reading my introduction, and welcome! My name is Riku, I'm a 24-year-old student at the University of Helsinki majoring in general linguistics. Apart from my morbid language fascination, I'm interested in music and hiking; I play the bass and the harmonica, and I try to regularly venture into the Finnish wilderness to spend a night or two "in the bush", as they'd say in New Zealand.
 
 ## Find me on
 
@@ -24,10 +24,16 @@ I'm cherry picking here; for a complete transcript with grades, please send 20 e
 
 [Field Methods: Language description and documentation](https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2223-0cbb79a6-9368-45e9-8b15-9b1bda7cebce), spring 2021
 
-Beginners' Course in Faroese, fall 2021
+[Beginners' Course in Faroese](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2122-6eec6a54-d057-4b2e-8b16-5a3629791d2e), fall 2021
 
 ## Projects
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+Most hobbies of mine are rather musically oriented. Here are links to the online blues harmonica lessons I use; a collection of sheet music transcriptions from the first two generations of Pokémon games; and a link to the social dance courses organised by Hämäläis-Osakunnan Tansskikerho HOT.
+
+[Blues Harmonica](https://www.bluesharmonica.com/home)
+
+[Transcription of Pokémon Game Boy music](https://www.nayuki.io/page/transcription-of-pokemon-game-boy-music)
+
+[Hämäläis-Osakunnan Tanssikerho](https://hamalais-osakunta.fi/toiminta/valiokunnat-ja-kerhot/kerhot/hamalais-osakunnan-tanssikerho)
