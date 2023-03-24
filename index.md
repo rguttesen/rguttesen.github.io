@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hi, you curious enough to find yourself reading my introduction, and welcome! My name is Riku, I'm a 24-year-old student at the University of Helsinki majoring in general linguistics. Apart from my morbid language fascination, I'm interested in music and hiking; I play the bass and the harmonica, and I try to regularly venture into the Finnish wilderness to spend a night or two "in the bush", as they'd say in New Zealand.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hi, you curious enough to find yourself reading my introduction, and welcome! My name is Riku, I'm a 25-year-old student at the University of Helsinki majoring in general linguistics. Apart from my morbid language fascination, I'm interested in music and hiking; I play the bass and the harmonica, and I try to regularly venture into the Finnish wilderness to spend a night or two "in the bush", as they'd say in New Zealand.
 
 ## Find me on
 
@@ -28,9 +28,17 @@ I'm cherry picking here; for a complete transcript with grades, please send 20 e
 
 ## Projects
 
+My most ambitious project for the time being is to graduate from the Bachelor's Progam in Languages. It is a grand - but not entirely futile - project that includes several sub-projects of wrapping up courses that are needed for my graduation. The three big ones are the courses 'Command-Line Tools for Linguists', 'Student's Digital Skills', and 'Portfolio Work'. Down below I've provided you with links pertinent to these three courses; the first one links to my GitHub project page for the Command-Line course, the second one links to the English language study material for the Digital Skills course, and the third one links to blog page introducing the HowULearn tool, which is used extensively during the Portfolio course.
+
+[Command-Line course GitHub project](https://github.com/rguttesen/cmdline-course)
+
+[Student's Digital Skills -course study material](https://blogs.helsinki.fi/students-digital-skills/)
+
+[HowULean tool introduction](https://blogs.helsinki.fi/howulearn/en/)
+
 ## Misc. 
 
-Most hobbies of mine are rather musically oriented. Here are links to the online blues harmonica lessons I use; a collection of sheet music transcriptions from the first two generations of Pokémon games; and a link to the social dance courses organised by Hämäläis-Osakunnan Tansskikerho HOT.
+Most hobbies of mine are rather musically oriented. Here are links to the online blues harmonica lessons I use, a collection of sheet music transcriptions from the first two generations of Pokémon games, and a link to the social dance courses organised by Hämäläis-Osakunnan Tansskikerho HOT.
 
 [Blues Harmonica](https://www.bluesharmonica.com/home)
 
