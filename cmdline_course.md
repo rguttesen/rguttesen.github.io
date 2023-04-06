@@ -4,6 +4,8 @@ layout: default
 
 ## Introduction
 
+Simple text test. Simple text test.
+
 ## Week 1
 
 ## Week 2
