@@ -48,7 +48,25 @@ Now we can finally have a look at the full command which turns creates a word-fr
 $ sed -E 's/(\. |, |\? |! |: |; )/ /g' testfile1.txt | sed -E 's/ /\n/g' | sort -f | uniq -ic | sort -nr  > testfile2.txt
 ```
 
-## Week 5
+## Week 5: Scripting
+
+This week's material was a natural and useful continuation of last week's; instead of piping commands into long chains every time a somewhat complicated task must be done, the commands can be entered into an individual script, so that the task can be accomplished any time by simply activating the script. For example, the script in the image below accomplishes the exact same thing as the last one give above; notice how all individual commands are on their own lines for improved readability: 
+
+![Picture of a script](assets/images/PIC1.png)
+
+The first line indicates the script type and through what means it can be called; below that we see comments initiated by the hashtag symbol that therefore don't interfere with the commands themselves. Now, the script itself can be called from the command line in the following manner:
+```
+$ cat textfile.txt | bash freqlist.sh 
+```
+However, using parameters in scripts makes them more adaptable, as they can accomplish much more with the same ammount of input. The immage below showcases how the string `$1` can be used to call the user's input in the script. It is also an excellent demonstration of the "if" command, which executes the following command(s) if a given condition is met.
+
+![Picture of a script](assets/images/PIC2.png)
+
+As long as the user has permission to execute the script (see week 2), it can also be called in the following manner:
+```
+$ ./comparative.sh immaculate
+```
+which returns `immaculater`.
 
 ## Week 6
 
