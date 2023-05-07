@@ -12,7 +12,11 @@ layout: default
 
 ## Contact
 
-You can contact me through: riku.guttesen@helsinki.fi, or, if you still haven't entered the 21st century (good choice by the way), you can find me in Metsätalo on Tuesdays from 12-14 in front of lecture hall 4 where I'll be studying Italian. 
+You can contact me through: riku.guttesen@helsinki.fi, or, if you still haven't entered the 21st century (good choice by the way), you can find me in Metsätalo on Tuesdays from 12-14 in front of lecture hall 4 where I'll be studying Italian.
+
+If you are a meritocratic individual and happen to require more tangible means of reaching me, please have a look at my resumé down below, which I dare say is a tad more professional than this rickety site.
+
+[Curriculum Vitae](documents/CV_Guttesen.pdf)
 
 ## Courses I've Taken
 
