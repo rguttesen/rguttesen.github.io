@@ -66,8 +66,33 @@ As long as the user has permission to execute the script (see week 2), it can al
 ```
 $ ./comparative.sh immaculate
 ```
-which returns `immaculater`.
+which returns, funnily, `immaculater`.
 
-## Week 6
+## Week 6: MAKE
+
+On the following level of magnitude, we find make: scripts could be used to automate a profuse ammount of piped commands, and for automating an equally daunting number of scripts we have make. Fundamentally, the syntax of a Makefile - which contains the instructions for make - looks like this:
+```
+output: input1 input2
+	command
+```
+where the `command` part is usually used to execute a premade script along with its own inputs and outputs. But just like with scripts, it is the ability to use variables that makes make make - yes, you read correctly - the process infinitely easier. The cursory table down below shows four of the most prominent variables:
+
+|Variable|Referent|
+|:------:|--------|
+|  `$@`  | output |
+|  `$<`  | input1 |
+|  `$^`  | input1 + input 2 |
+|   `%`  | two or more identical patterns |
+
+With this knowledge we can tackle the rule in the Makefile script down below, which, keeping in with the theme so far, creates frequency lists of a whole library of text files:
+
+![Picture of a Makefile rule](assets/images/PIC3.png)
+
+Firstly, all the books are listed that make up the library. Then, on the following line, a path to the `results` folder and a `.freq.txt` extension is appended to all the books; the names of these files are now the same as the output of the final rule, so make jumps there: it wants to create all the frequency lists using the script `freqlist.sh` and the versions of the books without the metadata. However, these versions do not exoit yet, so make has to create them first with the rule above using the python script `remove_gutenberg_metadata.py` and the text files of all the books - which ought to exist. Finally, the all rule refers back to `FREQLIST` on the second line and so runs through the whole Makfile. So, using the command below in the commandline, we will be created frequency lists of all these books in the results folder:
+```
+$ make all
+```
 
 ## Week 7
+
+## Week 8
