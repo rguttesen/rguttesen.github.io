@@ -93,6 +93,26 @@ Firstly, all the books are listed that make up the library. Then, on the followi
 $ make all
 ```
 
-## Week 7
+## Week 7: Version Control
 
-## Week 8
+Version control is practically paramount to use when working on a large project. In essence, using version control means having a software track a selected file or directory along with all the changes made to it. This allows you to revert to previous versions of project, while only storing one version in your system. This also comes in handy when collaborating with other people, as everyone can work on their own versions, or _branches_, without affecting the original. One of the most popular softwares for this is _git_ along with its social website _GitHub_, where users can share their work and copy others'.
+
+Once _git_ is installed and set up and you have a _GitHub_ account, the fundamental commands in the table below will make version control possible:
+
+|Git command    |Explanation|
+|:-------------:|-----------|
+|`git status`   |_shows working branch, as well as tracked and untracked files in the working directory_|
+|`git add`      |_adds given file to the staging area, making it tracked_|
+|`git reset`    |_removes given file from the staging are, making it untracked_|
+|`git commit -m`|_commits the files in the staging area to the local repository_|
+|`git log`      |_shows a log of all executed commits along with their individual number_|
+|`git clone`    |_clones remote repository at given URL to specified folder_|
+|`git branch`   |_creates a branch with given name_|
+|`git branch -a`|_lists all branches in local and remote repository_|
+|`git checkout` |_changes working branch to given branch_|
+|`git pull`     |_pulls all changes since last pull into given local repository from given remote repository_|
+|`git push`     |_pushes all commits in the given local repository into remote repository along with any messages_|
+
+## Week 8: GitHub Pages
+
+This was the final week of the Command-Line Tools course. During this week we started working on our final assignment, through which we were introduced to _GitHub Pages_. _GitHub Pages_ is a static site hosting service that allows users to publish their own website using a repository on _GitHub_. For individual users, the repository used for the website must be named **username.github.io**, after which the site will be available at **http(s)://username.github.io**. _GitHub Pages_ is compatible with HTLM, CSS, and JavaScript files.
